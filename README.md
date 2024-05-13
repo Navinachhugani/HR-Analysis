@@ -19,8 +19,12 @@ Insights include:
 - Variations in performance based on gender, previous experience, career gap and education qualification.
 - Visualizations of performance trends using column charts, donut chart, cards, slicers, bookmarks, and matrix table.
 
+![logo](https://github.com/Navinachhugani/HR-Analysis/blob/main/Dashboard/Media/HR%20Analysis.png)
+
 # Attrition Analysis:
 Investigated attrition rates and analysed the performance level of existing candidates. This helped to identify potential correlations between performance and attrition. There were fluctuations in attrition rates over time.
+
+![logo](https://github.com/Navinachhugani/HR-Analysis/blob/main/Dashboard/Media/Attrition%20analysis.png)
 
 **1-2 Month**
 - Total Candidate: 1224
